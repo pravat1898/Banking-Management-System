@@ -12,4 +12,4 @@ Before starting the application, you need to replace external jars
 with your's javamail.jar(files are already given in project) otherwise it will create some error.
 And under EmailValid.java dont forget to put your valid email and password
 
-Just fork it using the link https://github.com/abhishek021/Banking-System and use it.
+Just fork it using the link https://github.com/pravat1898/Banking-Management-System and use it.
