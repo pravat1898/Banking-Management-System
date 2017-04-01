@@ -1,10 +1,10 @@
-# Banking-System
-This project is based on Java 8
+# Banking-Management-System
+This project is based on JAVA 8
 
 #Software Requirements
 JDK8
 JRE8
-Eclipse neon 2.0
+Eclipse NEON 2.0
 
 #Important steps before execution
 Before starting the application, you need to replace external jars
